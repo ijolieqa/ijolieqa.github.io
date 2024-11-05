@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ijolieqa.github.io/FuV/sitemap_index.txt
+Sitemap: https://ijolieqa.github.io/HNZ/sitemap_index.txt
+Sitemap: https://ijolieqa.github.io/IfJ/sitemap_index.txt
+Sitemap: https://ijolieqa.github.io/dWJ/sitemap_index.txt
